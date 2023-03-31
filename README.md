@@ -1,1 +1,1 @@
-console.log(assignment no 3)
+<h1> Assingment no 3 </h1>
